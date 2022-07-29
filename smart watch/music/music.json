@@ -1,18 +1,18 @@
 {
     "music": [
         {
-            "name": "Ambarsariya",
+            "name": "bleach",
 
-            "img": "ambarsariyaa.jpg",
+            "img": "bleach.jpg",
 
-            "song": "/music/ambarsariya.m4a"
+            "song": "bleach.mp3"
         },
         {
-            "name": "Kadhal En kaviye",
+            "name": "unraval",
 
-            "img": "kaviye.jpg",
+            "img": "tokyo.jpg",
 
-            "song": "/music/kaviye.m4a"
+            "song": "unraval.mp3"
         }
     ]
 }
